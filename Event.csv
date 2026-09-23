@@ -1,0 +1,121 @@
+EventID,ChapterID,EventTitle,EventType,Venue,EventDate,Capacity
+4001,3001,"AI and Machine Learning Workshop",Workshop,"Seminar Hall 1",2026-01-15,100
+4002,3001,"Competitive Programming Contest",Competition,"Computer Lab 1",2026-01-22,80
+4003,3001,"Web Development Bootcamp",Training,"Innovation Lab",2026-02-05,70
+4004,3001,"Cloud Computing Seminar",Seminar,Auditorium,2026-02-18,150
+4005,3001,"Software Engineering Practices","Guest Lecture","Seminar Hall 2",2026-03-04,100
+4006,3001,"Open Source Contribution Drive",Workshop,"Computer Lab 2",2026-03-19,60
+4007,3001,"Full Stack Development Hackathon",Hackathon,"Innovation Lab",2026-04-10,120
+4008,3001,"Cyber Security Awareness Seminar",Seminar,Auditorium,2026-05-06,180
+4009,3001,"Python for Data Applications",Workshop,"Computer Lab 1",2026-06-12,90
+4010,3001,"Software Project Showcase",Conference,"Seminar Hall 1",2026-07-03,150
+4011,3002,"Generative AI Seminar",Seminar,Auditorium,2026-01-20,180
+4012,3002,"Deep Learning Fundamentals",Workshop,"AI Lab",2026-02-03,80
+4013,3002,"Natural Language Processing Workshop",Workshop,"AI Lab",2026-02-20,90
+4014,3002,"Computer Vision with Deep Learning",Training,"AI Lab",2026-03-06,70
+4015,3002,"Intelligent Systems Guest Lecture","Guest Lecture","Seminar Hall 2",2026-03-24,120
+4016,3002,"Machine Learning Model Challenge",Competition,"Computer Lab 2",2026-04-14,75
+4017,3002,"Data Analytics with Python",Workshop,"Computer Lab 1",2026-05-08,100
+4018,3002,"Explainable AI Seminar",Seminar,Auditorium,2026-06-05,160
+4019,3002,"Reinforcement Learning Workshop",Workshop,"AI Lab",2026-06-26,80
+4020,3002,"AI Innovation Hackathon",Hackathon,"Innovation Lab",2026-07-17,120
+4021,3003,"Robotics and Automation Workshop",Workshop,"Robotics Lab",2026-01-28,60
+4022,3003,"Autonomous Robot Challenge",Competition,"College Ground",2026-02-12,70
+4023,3003,"ROS2 Fundamentals Workshop",Workshop,"Robotics Lab",2026-02-27,60
+4024,3003,"Industrial Robotics Seminar",Seminar,Auditorium,2026-03-12,140
+4025,3003,"Drone Technology Guest Lecture","Guest Lecture","Seminar Hall 1",2026-03-30,110
+4026,3003,"Computer Vision for Robots",Training,"Robotics Lab",2026-04-22,55
+4027,3003,"Autonomous Drone Challenge",Competition,"College Ground",2026-05-15,80
+4028,3003,"Industrial Automation Hackathon",Hackathon,"Innovation Lab",2026-06-10,100
+4029,3003,"Mobile Robot Navigation Workshop",Workshop,"Robotics Lab",2026-07-01,60
+4030,3003,"Future of Robotics Seminar",Seminar,Auditorium,2026-07-24,160
+4031,3004,"Computer Networks Guest Lecture","Guest Lecture","Seminar Hall 2",2026-01-30,100
+4032,3004,"Network Security Workshop",Workshop,"Networking Lab",2026-02-16,70
+4033,3004,"Wireless Communication Seminar",Seminar,Auditorium,2026-03-03,150
+4034,3004,"Routing and Switching Workshop",Workshop,"Networking Lab",2026-03-20,65
+4035,3004,"5G Technology Seminar",Seminar,"Seminar Hall 1",2026-04-08,140
+4036,3004,"Network Simulation Training",Training,"Networking Lab",2026-04-28,60
+4037,3004,"IoT Communication Workshop",Workshop,"IoT Lab",2026-05-20,75
+4038,3004,"Next Generation Networks Conference",Conference,Auditorium,2026-06-18,200
+4039,3004,"SDN and Network Automation",Workshop,"Networking Lab",2026-07-08,70
+4040,3004,"Future Networks Hackathon",Hackathon,"Innovation Lab",2026-08-01,110
+4041,3005,"Digital Signal Processing Workshop",Workshop,"Electronics Lab",2026-01-25,55
+4042,3005,"Audio Signal Processing Seminar",Seminar,"Seminar Hall 1",2026-02-09,100
+4043,3005,"Image Processing with Python",Workshop,"Computer Lab 2",2026-02-25,80
+4044,3005,"Speech Processing Guest Lecture","Guest Lecture",Auditorium,2026-03-15,130
+4045,3005,"MATLAB for Signal Processing",Training,"Electronics Lab",2026-04-03,60
+4046,3005,"Biomedical Signal Analysis Workshop",Workshop,"Electronics Lab",2026-04-18,65
+4047,3005,"Computer Vision and Image Analytics",Seminar,"Seminar Hall 2",2026-05-12,120
+4048,3005,"Digital Filter Design Workshop",Workshop,"Electronics Lab",2026-06-03,55
+4049,3005,"Signal Processing Innovation Challenge",Competition,"Innovation Lab",2026-06-30,70
+4050,3005,"Advanced Signal Processing Seminar",Seminar,Auditorium,2026-08-10,150
+4051,3006,"Agile Software Development Workshop",Workshop,"Seminar Hall 1",2026-01-18,100
+4052,3006,"Software Testing and Quality Assurance",Training,"Computer Lab 1",2026-02-06,80
+4053,3006,"DevOps Practices Seminar",Seminar,Auditorium,2026-02-23,150
+4054,3006,"Git and GitHub Workshop",Workshop,"Computer Lab 2",2026-03-10,90
+4055,3006,"Requirements Engineering Guest Lecture","Guest Lecture","Seminar Hall 2",2026-03-27,110
+4056,3006,"Software Architecture Workshop",Workshop,"Seminar Hall 1",2026-04-16,100
+4057,3006,"Mobile App Development Hackathon",Hackathon,"Innovation Lab",2026-05-09,120
+4058,3006,"Cloud DevOps Bootcamp",Training,"Computer Lab 1",2026-06-16,75
+4059,3006,"Software Design Patterns Seminar",Seminar,Auditorium,2026-07-14,140
+4060,3006,"Software Engineering Project Expo",Conference,"Seminar Hall 1",2026-08-20,180
+4061,3007,"Data Visualization with Python",Workshop,"Data Science Lab",2026-01-21,80
+4062,3007,"Business Analytics Seminar",Seminar,Auditorium,2026-02-11,130
+4063,3007,"SQL Analytics Workshop",Workshop,"Computer Lab 1",2026-02-26,90
+4064,3007,"Exploratory Data Analysis Training",Training,"Data Science Lab",2026-03-17,75
+4065,3007,"Statistical Computing Guest Lecture","Guest Lecture","Seminar Hall 2",2026-04-02,120
+4066,3007,"Data Science Challenge",Competition,"Computer Lab 2",2026-04-24,70
+4067,3007,"Big Data Analytics Seminar",Seminar,Auditorium,2026-05-22,160
+4068,3007,"Power BI Workshop",Workshop,"Data Science Lab",2026-06-11,80
+4069,3007,"Predictive Analytics Hackathon",Hackathon,"Innovation Lab",2026-07-30,120
+4070,3007,"Data Driven Decision Making","Guest Lecture","Seminar Hall 1",2026-08-24,140
+4071,3008,"Introduction to IoT Workshop",Workshop,"IoT Lab",2026-01-26,70
+4072,3008,"Smart Home Automation Seminar",Seminar,"Seminar Hall 1",2026-02-14,120
+4073,3008,"IoT Sensor Integration Workshop",Workshop,"IoT Lab",2026-03-05,65
+4074,3008,"Edge Computing Guest Lecture","Guest Lecture",Auditorium,2026-03-25,150
+4075,3008,"MQTT and IoT Communication",Training,"IoT Lab",2026-04-11,60
+4076,3008,"Smart Agriculture Hackathon",Hackathon,"Innovation Lab",2026-05-04,100
+4077,3008,"Industrial IoT Seminar",Seminar,"Seminar Hall 2",2026-05-28,140
+4078,3008,"Embedded IoT Development Workshop",Workshop,"IoT Lab",2026-06-20,70
+4079,3008,"IoT Security Challenge",Competition,"Computer Lab 2",2026-07-18,75
+4080,3008,"Future of Connected Devices",Seminar,Auditorium,2026-08-28,170
+4081,3009,"Embedded Systems Workshop",Workshop,"Electronics Lab",2026-01-29,60
+4082,3009,"Microcontroller Programming Seminar",Seminar,"Seminar Hall 2",2026-02-17,110
+4083,3009,"PCB Design Workshop",Workshop,"Electronics Lab",2026-03-07,55
+4084,3009,"VLSI Design Guest Lecture","Guest Lecture",Auditorium,2026-03-28,140
+4085,3009,"Digital Electronics Training",Training,"Electronics Lab",2026-04-13,65
+4086,3009,"Embedded Product Design Challenge",Competition,"Innovation Lab",2026-05-07,60
+4087,3009,"FPGA Development Workshop",Workshop,"Electronics Lab",2026-05-30,50
+4088,3009,"Semiconductor Technology Seminar",Seminar,Auditorium,2026-06-25,160
+4089,3009,"Hardware Prototyping Hackathon",Hackathon,"Innovation Lab",2026-07-21,90
+4090,3009,"Advanced Embedded Systems Conference",Conference,"Seminar Hall 1",2026-08-31,150
+4091,3010,"Introduction to Power Systems",Workshop,"Electrical Lab",2026-01-31,70
+4092,3010,"Renewable Energy Seminar",Seminar,Auditorium,2026-02-19,160
+4093,3010,"Solar Energy Systems Workshop",Workshop,"Electrical Lab",2026-03-09,65
+4094,3010,"Smart Grid Guest Lecture","Guest Lecture","Seminar Hall 1",2026-03-31,120
+4095,3010,"Energy Management Training",Training,"Electrical Lab",2026-04-19,60
+4096,3010,"Electric Vehicle Technology Seminar",Seminar,Auditorium,2026-05-14,150
+4097,3010,"Power Electronics Workshop",Workshop,"Electrical Lab",2026-06-06,65
+4098,3010,"Energy Innovation Challenge",Competition,"Innovation Lab",2026-06-27,70
+4099,3010,"Green Energy Hackathon",Hackathon,"Innovation Lab",2026-07-27,100
+4100,3010,"Future Energy Systems Conference",Conference,Auditorium,2026-09-01,180
+4101,3011,"Biomedical Engineering Introduction",Seminar,Auditorium,2026-02-02,140
+4102,3011,"Medical Imaging Workshop",Workshop,"Biomedical Lab",2026-02-21,70
+4103,3011,"Healthcare Data Analytics",Training,"Data Science Lab",2026-03-14,80
+4104,3011,"Wearable Health Technology","Guest Lecture","Seminar Hall 2",2026-04-05,120
+4105,3011,"Biomedical Signal Processing",Workshop,"Biomedical Lab",2026-04-26,65
+4106,3011,"AI in Healthcare Seminar",Seminar,Auditorium,2026-05-19,170
+4107,3011,"Medical Device Design Challenge",Competition,"Innovation Lab",2026-06-13,60
+4108,3011,"Health Monitoring Systems Workshop",Workshop,"Biomedical Lab",2026-07-05,70
+4109,3011,"Digital Healthcare Hackathon",Hackathon,"Innovation Lab",2026-08-07,100
+4110,3011,"Future of Biomedical Engineering",Conference,Auditorium,2026-09-05,180
+4111,3012,"Technology Management Fundamentals",Workshop,"Seminar Hall 1",2026-01-17,100
+4112,3012,"Innovation Management Seminar",Seminar,Auditorium,2026-02-07,150
+4113,3012,"Entrepreneurship and Technology","Guest Lecture","Seminar Hall 2",2026-02-28,130
+4114,3012,"Project Management Workshop",Workshop,"Seminar Hall 1",2026-03-21,90
+4115,3012,"Technology Strategy Training",Training,"Computer Lab 1",2026-04-09,70
+4116,3012,"Innovation Challenge",Competition,"Innovation Lab",2026-05-02,80
+4117,3012,"Startup Technology Hackathon",Hackathon,"Innovation Lab",2026-06-08,120
+4118,3012,"Leadership in Technology Seminar",Seminar,Auditorium,2026-07-11,140
+4119,3012,"Technology Transfer Guest Lecture","Guest Lecture","Seminar Hall 2",2026-08-15,110
+4120,3012,"Annual Technology Management Conference",Conference,Auditorium,2026-09-10,200

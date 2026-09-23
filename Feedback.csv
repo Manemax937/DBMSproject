@@ -1,0 +1,685 @@
+FeedbackID,StudentID,EventID,Rating,Comments
+7001,1023,4001,5,Excellent session with practical examples and clear explanations.
+7002,1034,4001,5,Very informative and engaging event with useful technical insights.
+7003,1045,4001,5,Well organized session with strong hands-on learning.
+7004,1067,4001,5,Great event; the demonstrations made the concepts easy to understand.
+7005,1078,4001,5,Excellent session with practical examples and clear explanations.
+7006,1089,4001,4,Well conducted event with relevant technical content.
+7007,1018,4002,4,Good learning experience with practical takeaways.
+7008,1040,4002,4,Informative and engaging session with minor scope for more hands-on work.
+7009,1062,4002,4,Very useful session with good explanations and examples.
+7010,1106,4002,3,"Useful session with relevant content, although more practical work would help."
+7011,1035,4003,5,Well organized session with strong hands-on learning.
+7012,1046,4003,5,Great event; the demonstrations made the concepts easy to understand.
+7013,1068,4003,5,Excellent session with practical examples and clear explanations.
+7014,1079,4003,5,Very informative and engaging event with useful technical insights.
+7015,1090,4003,5,Well organized session with strong hands-on learning.
+7016,1112,4003,4,Informative and engaging session with minor scope for more hands-on work.
+7017,1003,4003,4,Very useful session with good explanations and examples.
+7018,1014,4003,4,Well conducted event with relevant technical content.
+7019,1085,4004,4,Good learning experience with practical takeaways.
+7020,1107,4004,3,The event was informative and could be improved with additional demonstrations.
+7021,1009,4004,5,Excellent session with practical examples and clear explanations.
+7022,1069,4005,5,Very informative and engaging event with useful technical insights.
+7023,1080,4005,5,Well organized session with strong hands-on learning.
+7024,1091,4005,5,Great event; the demonstrations made the concepts easy to understand.
+7025,1113,4005,5,Excellent session with practical examples and clear explanations.
+7026,1004,4005,4,Well conducted event with relevant technical content.
+7027,1015,4005,4,Good learning experience with practical takeaways.
+7028,1037,4005,4,Informative and engaging session with minor scope for more hands-on work.
+7029,1048,4005,4,Very useful session with good explanations and examples.
+7030,1086,4006,3,"Good overall experience, with some topics needing more detailed explanation."
+7031,1108,4006,5,Well organized session with strong hands-on learning.
+7032,1119,4006,5,Great event; the demonstrations made the concepts easy to understand.
+7033,1010,4006,5,Excellent session with practical examples and clear explanations.
+7034,1032,4006,5,Very informative and engaging event with useful technical insights.
+7035,1043,4006,5,Well organized session with strong hands-on learning.
+7036,1054,4006,4,Informative and engaging session with minor scope for more hands-on work.
+7037,1114,4007,4,Very useful session with good explanations and examples.
+7038,1016,4007,4,Well conducted event with relevant technical content.
+7039,1038,4007,4,Good learning experience with practical takeaways.
+7040,1082,4007,3,"Useful session with relevant content, although more practical work would help."
+7041,1120,4008,5,Excellent session with practical examples and clear explanations.
+7042,1011,4008,5,Very informative and engaging event with useful technical insights.
+7043,1033,4008,5,Well organized session with strong hands-on learning.
+7044,1044,4008,5,Great event; the demonstrations made the concepts easy to understand.
+7045,1055,4008,5,Excellent session with practical examples and clear explanations.
+7046,1077,4008,4,Well conducted event with relevant technical content.
+7047,1088,4008,4,Good learning experience with practical takeaways.
+7048,1099,4008,4,Informative and engaging session with minor scope for more hands-on work.
+7049,1039,4009,4,Very useful session with good explanations and examples.
+7050,1061,4009,3,The event was informative and could be improved with additional demonstrations.
+7051,1083,4009,5,Well organized session with strong hands-on learning.
+7052,1034,4010,5,Great event; the demonstrations made the concepts easy to understand.
+7053,1045,4010,5,Excellent session with practical examples and clear explanations.
+7054,1056,4010,5,Very informative and engaging event with useful technical insights.
+7055,1078,4010,5,Well organized session with strong hands-on learning.
+7056,1089,4010,4,Informative and engaging session with minor scope for more hands-on work.
+7057,1100,4010,4,Very useful session with good explanations and examples.
+7058,1002,4010,4,Well conducted event with relevant technical content.
+7059,1013,4010,4,Good learning experience with practical takeaways.
+7060,1051,4011,3,"Good overall experience, with some topics needing more detailed explanation."
+7061,1073,4011,5,Excellent session with practical examples and clear explanations.
+7062,1084,4011,5,Very informative and engaging event with useful technical insights.
+7063,1095,4011,5,Well organized session with strong hands-on learning.
+7064,1117,4011,5,Great event; the demonstrations made the concepts easy to understand.
+7065,1008,4011,5,Excellent session with practical examples and clear explanations.
+7066,1019,4011,4,Well conducted event with relevant technical content.
+7067,1068,4012,4,Good learning experience with practical takeaways.
+7068,1090,4012,4,Informative and engaging session with minor scope for more hands-on work.
+7069,1112,4012,4,Very useful session with good explanations and examples.
+7070,1036,4012,3,"Useful session with relevant content, although more practical work would help."
+7071,1085,4013,5,Well organized session with strong hands-on learning.
+7072,1096,4013,5,Great event; the demonstrations made the concepts easy to understand.
+7073,1118,4013,5,Excellent session with practical examples and clear explanations.
+7074,1009,4013,5,Very informative and engaging event with useful technical insights.
+7075,1020,4013,5,Well organized session with strong hands-on learning.
+7076,1042,4013,4,Informative and engaging session with minor scope for more hands-on work.
+7077,1064,4013,4,Very useful session with good explanations and examples.
+7078,1113,4014,4,Well conducted event with relevant technical content.
+7079,1037,4014,4,Good learning experience with practical takeaways.
+7080,1081,4014,3,The event was informative and could be improved with additional demonstrations.
+7081,1119,4015,5,Excellent session with practical examples and clear explanations.
+7082,1021,4015,5,Very informative and engaging event with useful technical insights.
+7083,1032,4015,5,Well organized session with strong hands-on learning.
+7084,1043,4015,5,Great event; the demonstrations made the concepts easy to understand.
+7085,1076,4015,5,Excellent session with practical examples and clear explanations.
+7086,1087,4015,4,Well conducted event with relevant technical content.
+7087,1098,4015,4,Good learning experience with practical takeaways.
+7088,1027,4016,4,Informative and engaging session with minor scope for more hands-on work.
+7089,1038,4016,4,Very useful session with good explanations and examples.
+7090,1049,4016,3,"Good overall experience, with some topics needing more detailed explanation."
+7091,1082,4016,5,Well organized session with strong hands-on learning.
+7092,1093,4016,5,Great event; the demonstrations made the concepts easy to understand.
+7093,1104,4016,5,Excellent session with practical examples and clear explanations.
+7094,1044,4017,5,Very informative and engaging event with useful technical insights.
+7095,1066,4017,5,Well organized session with strong hands-on learning.
+7096,1088,4017,4,Informative and engaging session with minor scope for more hands-on work.
+7097,1012,4017,4,Very useful session with good explanations and examples.
+7098,1050,4018,4,Well conducted event with relevant technical content.
+7099,1061,4018,4,Good learning experience with practical takeaways.
+7100,1094,4018,3,"Useful session with relevant content, although more practical work would help."
+7101,1105,4018,5,Excellent session with practical examples and clear explanations.
+7102,1116,4018,5,Very informative and engaging event with useful technical insights.
+7103,1018,4018,5,Well organized session with strong hands-on learning.
+7104,1029,4018,5,Great event; the demonstrations made the concepts easy to understand.
+7105,1067,4019,5,Excellent session with practical examples and clear explanations.
+7106,1013,4019,4,Well conducted event with relevant technical content.
+7107,1035,4019,4,Good learning experience with practical takeaways.
+7108,1084,4020,4,Informative and engaging session with minor scope for more hands-on work.
+7109,1117,4020,4,Very useful session with good explanations and examples.
+7110,1008,4020,3,The event was informative and could be improved with additional demonstrations.
+7111,1019,4020,5,Well organized session with strong hands-on learning.
+7112,1041,4020,5,Great event; the demonstrations made the concepts easy to understand.
+7113,1052,4020,5,Excellent session with practical examples and clear explanations.
+7114,1063,4020,5,Very informative and engaging event with useful technical insights.
+7115,1003,4021,5,Well organized session with strong hands-on learning.
+7116,1014,4021,4,Informative and engaging session with minor scope for more hands-on work.
+7117,1025,4021,4,Very useful session with good explanations and examples.
+7118,1047,4021,4,Well conducted event with relevant technical content.
+7119,1058,4021,4,Good learning experience with practical takeaways.
+7120,1069,4021,3,"Good overall experience, with some topics needing more detailed explanation."
+7121,1118,4022,5,Excellent session with practical examples and clear explanations.
+7122,1020,4022,5,Very informative and engaging event with useful technical insights.
+7123,1042,4022,5,Well organized session with strong hands-on learning.
+7124,1086,4022,5,Great event; the demonstrations made the concepts easy to understand.
+7125,1015,4023,5,Excellent session with practical examples and clear explanations.
+7126,1026,4023,4,Well conducted event with relevant technical content.
+7127,1048,4023,4,Good learning experience with practical takeaways.
+7128,1059,4023,4,Informative and engaging session with minor scope for more hands-on work.
+7129,1070,4023,4,Very useful session with good explanations and examples.
+7130,1092,4023,3,"Useful session with relevant content, although more practical work would help."
+7131,1103,4023,5,Well organized session with strong hands-on learning.
+7132,1114,4023,5,Great event; the demonstrations made the concepts easy to understand.
+7133,1065,4024,5,Excellent session with practical examples and clear explanations.
+7134,1087,4024,5,Very informative and engaging event with useful technical insights.
+7135,1109,4024,5,Well organized session with strong hands-on learning.
+7136,1049,4025,4,Informative and engaging session with minor scope for more hands-on work.
+7137,1060,4025,4,Very useful session with good explanations and examples.
+7138,1071,4025,4,Well conducted event with relevant technical content.
+7139,1093,4025,4,Good learning experience with practical takeaways.
+7140,1104,4025,3,The event was informative and could be improved with additional demonstrations.
+7141,1115,4025,5,Excellent session with practical examples and clear explanations.
+7142,1017,4025,5,Very informative and engaging event with useful technical insights.
+7143,1028,4025,5,Well organized session with strong hands-on learning.
+7144,1066,4026,5,Great event; the demonstrations made the concepts easy to understand.
+7145,1088,4026,5,Excellent session with practical examples and clear explanations.
+7146,1099,4026,4,Well conducted event with relevant technical content.
+7147,1110,4026,4,Good learning experience with practical takeaways.
+7148,1012,4026,4,Informative and engaging session with minor scope for more hands-on work.
+7149,1023,4026,4,Very useful session with good explanations and examples.
+7150,1034,4026,3,"Good overall experience, with some topics needing more detailed explanation."
+7151,1094,4027,5,Well organized session with strong hands-on learning.
+7152,1116,4027,5,Great event; the demonstrations made the concepts easy to understand.
+7153,1018,4027,5,Excellent session with practical examples and clear explanations.
+7154,1062,4027,5,Very informative and engaging event with useful technical insights.
+7155,1100,4028,5,Well organized session with strong hands-on learning.
+7156,1111,4028,4,Informative and engaging session with minor scope for more hands-on work.
+7157,1013,4028,4,Very useful session with good explanations and examples.
+7158,1024,4028,4,Well conducted event with relevant technical content.
+7159,1035,4028,4,Good learning experience with practical takeaways.
+7160,1057,4028,3,"Useful session with relevant content, although more practical work would help."
+7161,1068,4028,5,Excellent session with practical examples and clear explanations.
+7162,1079,4028,5,Very informative and engaging event with useful technical insights.
+7163,1019,4029,5,Well organized session with strong hands-on learning.
+7164,1041,4029,5,Great event; the demonstrations made the concepts easy to understand.
+7165,1063,4029,5,Excellent session with practical examples and clear explanations.
+7166,1014,4030,4,Well conducted event with relevant technical content.
+7167,1025,4030,4,Good learning experience with practical takeaways.
+7168,1036,4030,4,Informative and engaging session with minor scope for more hands-on work.
+7169,1058,4030,4,Very useful session with good explanations and examples.
+7170,1069,4030,3,The event was informative and could be improved with additional demonstrations.
+7171,1080,4030,5,Well organized session with strong hands-on learning.
+7172,1102,4030,5,Great event; the demonstrations made the concepts easy to understand.
+7173,1113,4030,5,Excellent session with practical examples and clear explanations.
+7174,1031,4031,5,Very informative and engaging event with useful technical insights.
+7175,1053,4031,5,Well organized session with strong hands-on learning.
+7176,1064,4031,4,Informative and engaging session with minor scope for more hands-on work.
+7177,1075,4031,4,Very useful session with good explanations and examples.
+7178,1097,4031,4,Well conducted event with relevant technical content.
+7179,1108,4031,4,Good learning experience with practical takeaways.
+7180,1119,4031,3,"Good overall experience, with some topics needing more detailed explanation."
+7181,1048,4032,5,Excellent session with practical examples and clear explanations.
+7182,1070,4032,5,Very informative and engaging event with useful technical insights.
+7183,1092,4032,5,Well organized session with strong hands-on learning.
+7184,1016,4032,5,Great event; the demonstrations made the concepts easy to understand.
+7185,1065,4033,5,Excellent session with practical examples and clear explanations.
+7186,1076,4033,4,Well conducted event with relevant technical content.
+7187,1098,4033,4,Good learning experience with practical takeaways.
+7188,1109,4033,4,Informative and engaging session with minor scope for more hands-on work.
+7189,1120,4033,4,Very useful session with good explanations and examples.
+7190,1022,4033,3,"Useful session with relevant content, although more practical work would help."
+7191,1044,4033,5,Well organized session with strong hands-on learning.
+7192,1093,4034,5,Great event; the demonstrations made the concepts easy to understand.
+7193,1017,4034,5,Excellent session with practical examples and clear explanations.
+7194,1061,4034,5,Very informative and engaging event with useful technical insights.
+7195,1099,4035,5,Well organized session with strong hands-on learning.
+7196,1001,4035,4,Informative and engaging session with minor scope for more hands-on work.
+7197,1012,4035,4,Very useful session with good explanations and examples.
+7198,1023,4035,4,Well conducted event with relevant technical content.
+7199,1056,4035,4,Good learning experience with practical takeaways.
+7200,1067,4035,3,The event was informative and could be improved with additional demonstrations.
+7201,1078,4035,5,Excellent session with practical examples and clear explanations.
+7202,1007,4036,5,Very informative and engaging event with useful technical insights.
+7203,1018,4036,5,Well organized session with strong hands-on learning.
+7204,1029,4036,5,Great event; the demonstrations made the concepts easy to understand.
+7205,1062,4036,5,Excellent session with practical examples and clear explanations.
+7206,1073,4036,4,Well conducted event with relevant technical content.
+7207,1084,4036,4,Good learning experience with practical takeaways.
+7208,1024,4037,4,Informative and engaging session with minor scope for more hands-on work.
+7209,1046,4037,4,Very useful session with good explanations and examples.
+7210,1068,4037,3,"Good overall experience, with some topics needing more detailed explanation."
+7211,1112,4037,5,Well organized session with strong hands-on learning.
+7212,1030,4038,5,Great event; the demonstrations made the concepts easy to understand.
+7213,1041,4038,5,Excellent session with practical examples and clear explanations.
+7214,1074,4038,5,Very informative and engaging event with useful technical insights.
+7215,1085,4038,5,Well organized session with strong hands-on learning.
+7216,1096,4038,4,Informative and engaging session with minor scope for more hands-on work.
+7217,1118,4038,4,Very useful session with good explanations and examples.
+7218,1009,4038,4,Well conducted event with relevant technical content.
+7219,1047,4039,4,Good learning experience with practical takeaways.
+7220,1113,4039,3,"Useful session with relevant content, although more practical work would help."
+7221,1015,4039,5,Excellent session with practical examples and clear explanations.
+7222,1064,4040,5,Very informative and engaging event with useful technical insights.
+7223,1097,4040,5,Well organized session with strong hands-on learning.
+7224,1108,4040,5,Great event; the demonstrations made the concepts easy to understand.
+7225,1119,4040,5,Excellent session with practical examples and clear explanations.
+7226,1021,4040,4,Well conducted event with relevant technical content.
+7227,1032,4040,4,Good learning experience with practical takeaways.
+7228,1043,4040,4,Informative and engaging session with minor scope for more hands-on work.
+7229,1103,4041,4,Very useful session with good explanations and examples.
+7230,1114,4041,3,The event was informative and could be improved with additional demonstrations.
+7231,1005,4041,5,Well organized session with strong hands-on learning.
+7232,1027,4041,5,Great event; the demonstrations made the concepts easy to understand.
+7233,1038,4041,5,Excellent session with practical examples and clear explanations.
+7234,1049,4041,5,Very informative and engaging event with useful technical insights.
+7235,1098,4042,5,Well organized session with strong hands-on learning.
+7236,1120,4042,4,Informative and engaging session with minor scope for more hands-on work.
+7237,1022,4042,4,Very useful session with good explanations and examples.
+7238,1066,4042,4,Well conducted event with relevant technical content.
+7239,1115,4043,4,Good learning experience with practical takeaways.
+7240,1006,4043,3,"Good overall experience, with some topics needing more detailed explanation."
+7241,1028,4043,5,Excellent session with practical examples and clear explanations.
+7242,1039,4043,5,Very informative and engaging event with useful technical insights.
+7243,1050,4043,5,Well organized session with strong hands-on learning.
+7244,1072,4043,5,Great event; the demonstrations made the concepts easy to understand.
+7245,1083,4043,5,Excellent session with practical examples and clear explanations.
+7246,1094,4043,4,Well conducted event with relevant technical content.
+7247,1045,4044,4,Good learning experience with practical takeaways.
+7248,1067,4044,4,Informative and engaging session with minor scope for more hands-on work.
+7249,1089,4044,4,Very useful session with good explanations and examples.
+7250,1029,4045,3,"Useful session with relevant content, although more practical work would help."
+7251,1040,4045,5,Well organized session with strong hands-on learning.
+7252,1051,4045,5,Great event; the demonstrations made the concepts easy to understand.
+7253,1073,4045,5,Excellent session with practical examples and clear explanations.
+7254,1084,4045,5,Very informative and engaging event with useful technical insights.
+7255,1095,4045,5,Well organized session with strong hands-on learning.
+7256,1117,4045,4,Informative and engaging session with minor scope for more hands-on work.
+7257,1008,4045,4,Very useful session with good explanations and examples.
+7258,1046,4046,4,Well conducted event with relevant technical content.
+7259,1068,4046,4,Good learning experience with practical takeaways.
+7260,1079,4046,3,The event was informative and could be improved with additional demonstrations.
+7261,1090,4046,5,Excellent session with practical examples and clear explanations.
+7262,1112,4046,5,Very informative and engaging event with useful technical insights.
+7263,1003,4046,5,Well organized session with strong hands-on learning.
+7264,1014,4046,5,Great event; the demonstrations made the concepts easy to understand.
+7265,1074,4047,5,Excellent session with practical examples and clear explanations.
+7266,1096,4047,4,Well conducted event with relevant technical content.
+7267,1118,4047,4,Good learning experience with practical takeaways.
+7268,1042,4047,4,Informative and engaging session with minor scope for more hands-on work.
+7269,1080,4048,4,Very useful session with good explanations and examples.
+7270,1091,4048,3,"Good overall experience, with some topics needing more detailed explanation."
+7271,1113,4048,5,Well organized session with strong hands-on learning.
+7272,1004,4048,5,Great event; the demonstrations made the concepts easy to understand.
+7273,1015,4048,5,Excellent session with practical examples and clear explanations.
+7274,1037,4048,5,Very informative and engaging event with useful technical insights.
+7275,1048,4048,5,Well organized session with strong hands-on learning.
+7276,1059,4048,4,Informative and engaging session with minor scope for more hands-on work.
+7277,1119,4049,4,Very useful session with good explanations and examples.
+7278,1021,4049,4,Well conducted event with relevant technical content.
+7279,1043,4049,4,Good learning experience with practical takeaways.
+7280,1114,4050,3,"Useful session with relevant content, although more practical work would help."
+7281,1005,4050,5,Excellent session with practical examples and clear explanations.
+7282,1016,4050,5,Very informative and engaging event with useful technical insights.
+7283,1038,4050,5,Well organized session with strong hands-on learning.
+7284,1049,4050,5,Great event; the demonstrations made the concepts easy to understand.
+7285,1060,4050,5,Excellent session with practical examples and clear explanations.
+7286,1082,4050,4,Well conducted event with relevant technical content.
+7287,1093,4050,4,Good learning experience with practical takeaways.
+7288,1011,4051,4,Informative and engaging session with minor scope for more hands-on work.
+7289,1033,4051,4,Very useful session with good explanations and examples.
+7290,1044,4051,3,The event was informative and could be improved with additional demonstrations.
+7291,1055,4051,5,Well organized session with strong hands-on learning.
+7292,1077,4051,5,Great event; the demonstrations made the concepts easy to understand.
+7293,1088,4051,5,Excellent session with practical examples and clear explanations.
+7294,1099,4051,5,Very informative and engaging event with useful technical insights.
+7295,1028,4052,5,Well organized session with strong hands-on learning.
+7296,1050,4052,4,Informative and engaging session with minor scope for more hands-on work.
+7297,1072,4052,4,Very useful session with good explanations and examples.
+7298,1116,4052,4,Well conducted event with relevant technical content.
+7299,1045,4053,4,Good learning experience with practical takeaways.
+7300,1056,4053,3,"Good overall experience, with some topics needing more detailed explanation."
+7301,1078,4053,5,Excellent session with practical examples and clear explanations.
+7302,1089,4053,5,Very informative and engaging event with useful technical insights.
+7303,1100,4053,5,Well organized session with strong hands-on learning.
+7304,1002,4053,5,Great event; the demonstrations made the concepts easy to understand.
+7305,1024,4053,5,Excellent session with practical examples and clear explanations.
+7306,1073,4054,4,Well conducted event with relevant technical content.
+7307,1117,4054,4,Good learning experience with practical takeaways.
+7308,1041,4054,4,Informative and engaging session with minor scope for more hands-on work.
+7309,1079,4055,4,Very useful session with good explanations and examples.
+7310,1101,4055,3,"Useful session with relevant content, although more practical work would help."
+7311,1112,4055,5,Well organized session with strong hands-on learning.
+7312,1003,4055,5,Great event; the demonstrations made the concepts easy to understand.
+7313,1036,4055,5,Excellent session with practical examples and clear explanations.
+7314,1047,4055,5,Very informative and engaging event with useful technical insights.
+7315,1058,4055,5,Well organized session with strong hands-on learning.
+7316,1107,4056,4,Informative and engaging session with minor scope for more hands-on work.
+7317,1118,4056,4,Very useful session with good explanations and examples.
+7318,1009,4056,4,Well conducted event with relevant technical content.
+7319,1042,4056,4,Good learning experience with practical takeaways.
+7320,1053,4056,3,The event was informative and could be improved with additional demonstrations.
+7321,1064,4056,5,Excellent session with practical examples and clear explanations.
+7322,1004,4057,5,Very informative and engaging event with useful technical insights.
+7323,1026,4057,5,Well organized session with strong hands-on learning.
+7324,1048,4057,5,Great event; the demonstrations made the concepts easy to understand.
+7325,1092,4057,5,Excellent session with practical examples and clear explanations.
+7326,1010,4058,4,Well conducted event with relevant technical content.
+7327,1021,4058,4,Good learning experience with practical takeaways.
+7328,1054,4058,4,Informative and engaging session with minor scope for more hands-on work.
+7329,1065,4058,4,Very useful session with good explanations and examples.
+7330,1076,4058,3,"Good overall experience, with some topics needing more detailed explanation."
+7331,1098,4058,5,Well organized session with strong hands-on learning.
+7332,1109,4058,5,Great event; the demonstrations made the concepts easy to understand.
+7333,1027,4059,5,Excellent session with practical examples and clear explanations.
+7334,1093,4059,5,Very informative and engaging event with useful technical insights.
+7335,1115,4059,5,Well organized session with strong hands-on learning.
+7336,1044,4060,4,Informative and engaging session with minor scope for more hands-on work.
+7337,1077,4060,4,Very useful session with good explanations and examples.
+7338,1088,4060,4,Well conducted event with relevant technical content.
+7339,1099,4060,4,Good learning experience with practical takeaways.
+7340,1001,4060,3,"Useful session with relevant content, although more practical work would help."
+7341,1012,4060,5,Excellent session with practical examples and clear explanations.
+7342,1023,4060,5,Very informative and engaging event with useful technical insights.
+7343,1083,4061,5,Well organized session with strong hands-on learning.
+7344,1094,4061,5,Great event; the demonstrations made the concepts easy to understand.
+7345,1105,4061,5,Excellent session with practical examples and clear explanations.
+7346,1007,4061,4,Well conducted event with relevant technical content.
+7347,1018,4061,4,Good learning experience with practical takeaways.
+7348,1029,4061,4,Informative and engaging session with minor scope for more hands-on work.
+7349,1078,4062,4,Very useful session with good explanations and examples.
+7350,1100,4062,3,The event was informative and could be improved with additional demonstrations.
+7351,1002,4062,5,Well organized session with strong hands-on learning.
+7352,1046,4062,5,Great event; the demonstrations made the concepts easy to understand.
+7353,1095,4063,5,Excellent session with practical examples and clear explanations.
+7354,1106,4063,5,Very informative and engaging event with useful technical insights.
+7355,1008,4063,5,Well organized session with strong hands-on learning.
+7356,1019,4063,4,Informative and engaging session with minor scope for more hands-on work.
+7357,1030,4063,4,Very useful session with good explanations and examples.
+7358,1052,4063,4,Well conducted event with relevant technical content.
+7359,1063,4063,4,Good learning experience with practical takeaways.
+7360,1074,4063,3,"Good overall experience, with some topics needing more detailed explanation."
+7361,1025,4064,5,Excellent session with practical examples and clear explanations.
+7362,1047,4064,5,Very informative and engaging event with useful technical insights.
+7363,1069,4064,5,Well organized session with strong hands-on learning.
+7364,1009,4065,5,Great event; the demonstrations made the concepts easy to understand.
+7365,1020,4065,5,Excellent session with practical examples and clear explanations.
+7366,1031,4065,4,Well conducted event with relevant technical content.
+7367,1053,4065,4,Good learning experience with practical takeaways.
+7368,1064,4065,4,Informative and engaging session with minor scope for more hands-on work.
+7369,1075,4065,4,Very useful session with good explanations and examples.
+7370,1097,4065,3,"Useful session with relevant content, although more practical work would help."
+7371,1108,4065,5,Well organized session with strong hands-on learning.
+7372,1026,4066,5,Great event; the demonstrations made the concepts easy to understand.
+7373,1048,4066,5,Excellent session with practical examples and clear explanations.
+7374,1059,4066,5,Very informative and engaging event with useful technical insights.
+7375,1070,4066,5,Well organized session with strong hands-on learning.
+7376,1092,4066,4,Informative and engaging session with minor scope for more hands-on work.
+7377,1103,4066,4,Very useful session with good explanations and examples.
+7378,1114,4066,4,Well conducted event with relevant technical content.
+7379,1054,4067,4,Good learning experience with practical takeaways.
+7380,1076,4067,3,The event was informative and could be improved with additional demonstrations.
+7381,1098,4067,5,Excellent session with practical examples and clear explanations.
+7382,1022,4067,5,Very informative and engaging event with useful technical insights.
+7383,1060,4068,5,Well organized session with strong hands-on learning.
+7384,1071,4068,5,Great event; the demonstrations made the concepts easy to understand.
+7385,1093,4068,5,Excellent session with practical examples and clear explanations.
+7386,1104,4068,4,Well conducted event with relevant technical content.
+7387,1115,4068,4,Good learning experience with practical takeaways.
+7388,1017,4068,4,Informative and engaging session with minor scope for more hands-on work.
+7389,1028,4068,4,Very useful session with good explanations and examples.
+7390,1039,4068,3,"Good overall experience, with some topics needing more detailed explanation."
+7391,1099,4069,5,Well organized session with strong hands-on learning.
+7392,1001,4069,5,Great event; the demonstrations made the concepts easy to understand.
+7393,1023,4069,5,Excellent session with practical examples and clear explanations.
+7394,1094,4070,5,Very informative and engaging event with useful technical insights.
+7395,1105,4070,5,Well organized session with strong hands-on learning.
+7396,1116,4070,4,Informative and engaging session with minor scope for more hands-on work.
+7397,1018,4070,4,Very useful session with good explanations and examples.
+7398,1029,4070,4,Well conducted event with relevant technical content.
+7399,1040,4070,4,Good learning experience with practical takeaways.
+7400,1062,4070,3,"Useful session with relevant content, although more practical work would help."
+7401,1073,4070,5,Excellent session with practical examples and clear explanations.
+7402,1111,4071,5,Very informative and engaging event with useful technical insights.
+7403,1013,4071,5,Well organized session with strong hands-on learning.
+7404,1024,4071,5,Great event; the demonstrations made the concepts easy to understand.
+7405,1035,4071,5,Excellent session with practical examples and clear explanations.
+7406,1057,4071,4,Well conducted event with relevant technical content.
+7407,1068,4071,4,Good learning experience with practical takeaways.
+7408,1079,4071,4,Informative and engaging session with minor scope for more hands-on work.
+7409,1008,4072,4,Very useful session with good explanations and examples.
+7410,1030,4072,3,The event was informative and could be improved with additional demonstrations.
+7411,1052,4072,5,Well organized session with strong hands-on learning.
+7412,1096,4072,5,Great event; the demonstrations made the concepts easy to understand.
+7413,1025,4073,5,Excellent session with practical examples and clear explanations.
+7414,1036,4073,5,Very informative and engaging event with useful technical insights.
+7415,1058,4073,5,Well organized session with strong hands-on learning.
+7416,1069,4073,4,Informative and engaging session with minor scope for more hands-on work.
+7417,1080,4073,4,Very useful session with good explanations and examples.
+7418,1102,4073,4,Well conducted event with relevant technical content.
+7419,1004,4073,4,Good learning experience with practical takeaways.
+7420,1053,4074,3,"Good overall experience, with some topics needing more detailed explanation."
+7421,1097,4074,5,Excellent session with practical examples and clear explanations.
+7422,1021,4074,5,Very informative and engaging event with useful technical insights.
+7423,1059,4075,5,Well organized session with strong hands-on learning.
+7424,1081,4075,5,Great event; the demonstrations made the concepts easy to understand.
+7425,1092,4075,5,Excellent session with practical examples and clear explanations.
+7426,1103,4075,4,Well conducted event with relevant technical content.
+7427,1016,4075,4,Good learning experience with practical takeaways.
+7428,1027,4075,4,Informative and engaging session with minor scope for more hands-on work.
+7429,1038,4075,4,Very useful session with good explanations and examples.
+7430,1087,4076,3,"Useful session with relevant content, although more practical work would help."
+7431,1098,4076,5,Well organized session with strong hands-on learning.
+7432,1109,4076,5,Great event; the demonstrations made the concepts easy to understand.
+7433,1022,4076,5,Excellent session with practical examples and clear explanations.
+7434,1033,4076,5,Very informative and engaging event with useful technical insights.
+7435,1044,4076,5,Well organized session with strong hands-on learning.
+7436,1104,4077,4,Informative and engaging session with minor scope for more hands-on work.
+7437,1006,4077,4,Very useful session with good explanations and examples.
+7438,1028,4077,4,Well conducted event with relevant technical content.
+7439,1072,4077,4,Good learning experience with practical takeaways.
+7440,1110,4078,3,The event was informative and could be improved with additional demonstrations.
+7441,1001,4078,5,Excellent session with practical examples and clear explanations.
+7442,1034,4078,5,Very informative and engaging event with useful technical insights.
+7443,1045,4078,5,Well organized session with strong hands-on learning.
+7444,1056,4078,5,Great event; the demonstrations made the concepts easy to understand.
+7445,1078,4078,5,Excellent session with practical examples and clear explanations.
+7446,1089,4078,4,Well conducted event with relevant technical content.
+7447,1007,4079,4,Good learning experience with practical takeaways.
+7448,1073,4079,4,Informative and engaging session with minor scope for more hands-on work.
+7449,1095,4079,4,Very useful session with good explanations and examples.
+7450,1024,4080,3,"Good overall experience, with some topics needing more detailed explanation."
+7451,1057,4080,5,Well organized session with strong hands-on learning.
+7452,1068,4080,5,Great event; the demonstrations made the concepts easy to understand.
+7453,1079,4080,5,Excellent session with practical examples and clear explanations.
+7454,1101,4080,5,Very informative and engaging event with useful technical insights.
+7455,1112,4080,5,Well organized session with strong hands-on learning.
+7456,1003,4080,4,Informative and engaging session with minor scope for more hands-on work.
+7457,1063,4081,4,Very useful session with good explanations and examples.
+7458,1074,4081,4,Well conducted event with relevant technical content.
+7459,1085,4081,4,Good learning experience with practical takeaways.
+7460,1107,4081,3,"Useful session with relevant content, although more practical work would help."
+7461,1118,4081,5,Excellent session with practical examples and clear explanations.
+7462,1009,4081,5,Very informative and engaging event with useful technical insights.
+7463,1058,4082,5,Well organized session with strong hands-on learning.
+7464,1080,4082,5,Great event; the demonstrations made the concepts easy to understand.
+7465,1102,4082,5,Excellent session with practical examples and clear explanations.
+7466,1026,4082,4,Well conducted event with relevant technical content.
+7467,1075,4083,4,Good learning experience with practical takeaways.
+7468,1086,4083,4,Informative and engaging session with minor scope for more hands-on work.
+7469,1108,4083,4,Very useful session with good explanations and examples.
+7470,1119,4083,3,The event was informative and could be improved with additional demonstrations.
+7471,1010,4083,5,Well organized session with strong hands-on learning.
+7472,1032,4083,5,Great event; the demonstrations made the concepts easy to understand.
+7473,1043,4083,5,Excellent session with practical examples and clear explanations.
+7474,1054,4083,5,Very informative and engaging event with useful technical insights.
+7475,1005,4084,5,Well organized session with strong hands-on learning.
+7476,1027,4084,4,Informative and engaging session with minor scope for more hands-on work.
+7477,1049,4084,4,Very useful session with good explanations and examples.
+7478,1109,4085,4,Well conducted event with relevant technical content.
+7479,1120,4085,4,Good learning experience with practical takeaways.
+7480,1011,4085,3,"Good overall experience, with some topics needing more detailed explanation."
+7481,1033,4085,5,Excellent session with practical examples and clear explanations.
+7482,1044,4085,5,Very informative and engaging event with useful technical insights.
+7483,1055,4085,5,Well organized session with strong hands-on learning.
+7484,1077,4085,5,Great event; the demonstrations made the concepts easy to understand.
+7485,1088,4085,5,Excellent session with practical examples and clear explanations.
+7486,1006,4086,4,Well conducted event with relevant technical content.
+7487,1028,4086,4,Good learning experience with practical takeaways.
+7488,1039,4086,4,Informative and engaging session with minor scope for more hands-on work.
+7489,1050,4086,4,Very useful session with good explanations and examples.
+7490,1072,4086,3,"Useful session with relevant content, although more practical work would help."
+7491,1083,4086,5,Well organized session with strong hands-on learning.
+7492,1094,4086,5,Great event; the demonstrations made the concepts easy to understand.
+7493,1034,4087,5,Excellent session with practical examples and clear explanations.
+7494,1056,4087,5,Very informative and engaging event with useful technical insights.
+7495,1078,4087,5,Well organized session with strong hands-on learning.
+7496,1002,4087,4,Informative and engaging session with minor scope for more hands-on work.
+7497,1040,4088,4,Very useful session with good explanations and examples.
+7498,1051,4088,4,Well conducted event with relevant technical content.
+7499,1073,4088,4,Good learning experience with practical takeaways.
+7500,1084,4088,3,The event was informative and could be improved with additional demonstrations.
+7501,1095,4088,5,Excellent session with practical examples and clear explanations.
+7502,1117,4088,5,Very informative and engaging event with useful technical insights.
+7503,1008,4088,5,Well organized session with strong hands-on learning.
+7504,1019,4088,5,Great event; the demonstrations made the concepts easy to understand.
+7505,1079,4089,5,Excellent session with practical examples and clear explanations.
+7506,1101,4089,4,Well conducted event with relevant technical content.
+7507,1003,4089,4,Good learning experience with practical takeaways.
+7508,1074,4090,4,Informative and engaging session with minor scope for more hands-on work.
+7509,1085,4090,4,Very useful session with good explanations and examples.
+7510,1096,4090,3,"Good overall experience, with some topics needing more detailed explanation."
+7511,1118,4090,5,Well organized session with strong hands-on learning.
+7512,1009,4090,5,Great event; the demonstrations made the concepts easy to understand.
+7513,1020,4090,5,Excellent session with practical examples and clear explanations.
+7514,1042,4090,5,Very informative and engaging event with useful technical insights.
+7515,1053,4090,5,Well organized session with strong hands-on learning.
+7516,1091,4091,4,Informative and engaging session with minor scope for more hands-on work.
+7517,1113,4091,4,Very useful session with good explanations and examples.
+7518,1004,4091,4,Well conducted event with relevant technical content.
+7519,1015,4091,4,Good learning experience with practical takeaways.
+7520,1037,4091,3,"Useful session with relevant content, although more practical work would help."
+7521,1048,4091,5,Excellent session with practical examples and clear explanations.
+7522,1059,4091,5,Very informative and engaging event with useful technical insights.
+7523,1108,4092,5,Well organized session with strong hands-on learning.
+7524,1010,4092,5,Great event; the demonstrations made the concepts easy to understand.
+7525,1032,4092,5,Excellent session with practical examples and clear explanations.
+7526,1076,4092,4,Well conducted event with relevant technical content.
+7527,1005,4093,4,Good learning experience with practical takeaways.
+7528,1016,4093,4,Informative and engaging session with minor scope for more hands-on work.
+7529,1038,4093,4,Very useful session with good explanations and examples.
+7530,1049,4093,3,The event was informative and could be improved with additional demonstrations.
+7531,1060,4093,5,Well organized session with strong hands-on learning.
+7532,1082,4093,5,Great event; the demonstrations made the concepts easy to understand.
+7533,1104,4093,5,Excellent session with practical examples and clear explanations.
+7534,1033,4094,5,Very informative and engaging event with useful technical insights.
+7535,1077,4094,5,Well organized session with strong hands-on learning.
+7536,1001,4094,4,Informative and engaging session with minor scope for more hands-on work.
+7537,1039,4095,4,Very useful session with good explanations and examples.
+7538,1061,4095,4,Well conducted event with relevant technical content.
+7539,1072,4095,4,Good learning experience with practical takeaways.
+7540,1083,4095,3,"Good overall experience, with some topics needing more detailed explanation."
+7541,1116,4095,5,Excellent session with practical examples and clear explanations.
+7542,1007,4095,5,Very informative and engaging event with useful technical insights.
+7543,1018,4095,5,Well organized session with strong hands-on learning.
+7544,1067,4096,5,Great event; the demonstrations made the concepts easy to understand.
+7545,1078,4096,5,Excellent session with practical examples and clear explanations.
+7546,1089,4096,4,Well conducted event with relevant technical content.
+7547,1002,4096,4,Good learning experience with practical takeaways.
+7548,1013,4096,4,Informative and engaging session with minor scope for more hands-on work.
+7549,1024,4096,4,Very useful session with good explanations and examples.
+7550,1084,4097,3,"Useful session with relevant content, although more practical work would help."
+7551,1106,4097,5,Well organized session with strong hands-on learning.
+7552,1008,4097,5,Great event; the demonstrations made the concepts easy to understand.
+7553,1052,4097,5,Excellent session with practical examples and clear explanations.
+7554,1090,4098,5,Very informative and engaging event with useful technical insights.
+7555,1101,4098,5,Well organized session with strong hands-on learning.
+7556,1014,4098,4,Informative and engaging session with minor scope for more hands-on work.
+7557,1025,4098,4,Very useful session with good explanations and examples.
+7558,1036,4098,4,Well conducted event with relevant technical content.
+7559,1058,4098,4,Good learning experience with practical takeaways.
+7560,1069,4098,3,The event was informative and could be improved with additional demonstrations.
+7561,1107,4099,5,Excellent session with practical examples and clear explanations.
+7562,1053,4099,5,Very informative and engaging event with useful technical insights.
+7563,1075,4099,5,Well organized session with strong hands-on learning.
+7564,1004,4100,5,Great event; the demonstrations made the concepts easy to understand.
+7565,1037,4100,5,Excellent session with practical examples and clear explanations.
+7566,1048,4100,4,Well conducted event with relevant technical content.
+7567,1059,4100,4,Good learning experience with practical takeaways.
+7568,1081,4100,4,Informative and engaging session with minor scope for more hands-on work.
+7569,1092,4100,4,Very useful session with good explanations and examples.
+7570,1103,4100,3,"Good overall experience, with some topics needing more detailed explanation."
+7571,1043,4101,5,Well organized session with strong hands-on learning.
+7572,1054,4101,5,Great event; the demonstrations made the concepts easy to understand.
+7573,1065,4101,5,Excellent session with practical examples and clear explanations.
+7574,1087,4101,5,Very informative and engaging event with useful technical insights.
+7575,1098,4101,5,Well organized session with strong hands-on learning.
+7576,1109,4101,4,Informative and engaging session with minor scope for more hands-on work.
+7577,1038,4102,4,Very useful session with good explanations and examples.
+7578,1060,4102,4,Well conducted event with relevant technical content.
+7579,1082,4102,4,Good learning experience with practical takeaways.
+7580,1006,4102,3,"Useful session with relevant content, although more practical work would help."
+7581,1055,4103,5,Excellent session with practical examples and clear explanations.
+7582,1066,4103,5,Very informative and engaging event with useful technical insights.
+7583,1088,4103,5,Well organized session with strong hands-on learning.
+7584,1099,4103,5,Great event; the demonstrations made the concepts easy to understand.
+7585,1110,4103,5,Excellent session with practical examples and clear explanations.
+7586,1012,4103,4,Well conducted event with relevant technical content.
+7587,1023,4103,4,Good learning experience with practical takeaways.
+7588,1034,4103,4,Informative and engaging session with minor scope for more hands-on work.
+7589,1105,4104,4,Very useful session with good explanations and examples.
+7590,1007,4104,3,The event was informative and could be improved with additional demonstrations.
+7591,1029,4104,5,Well organized session with strong hands-on learning.
+7592,1089,4105,5,Great event; the demonstrations made the concepts easy to understand.
+7593,1100,4105,5,Excellent session with practical examples and clear explanations.
+7594,1111,4105,5,Very informative and engaging event with useful technical insights.
+7595,1013,4105,5,Well organized session with strong hands-on learning.
+7596,1024,4105,4,Informative and engaging session with minor scope for more hands-on work.
+7597,1035,4105,4,Very useful session with good explanations and examples.
+7598,1057,4105,4,Well conducted event with relevant technical content.
+7599,1068,4105,4,Good learning experience with practical takeaways.
+7600,1106,4106,3,"Good overall experience, with some topics needing more detailed explanation."
+7601,1008,4106,5,Excellent session with practical examples and clear explanations.
+7602,1019,4106,5,Very informative and engaging event with useful technical insights.
+7603,1030,4106,5,Well organized session with strong hands-on learning.
+7604,1052,4106,5,Great event; the demonstrations made the concepts easy to understand.
+7605,1063,4106,5,Excellent session with practical examples and clear explanations.
+7606,1074,4106,4,Well conducted event with relevant technical content.
+7607,1014,4107,4,Good learning experience with practical takeaways.
+7608,1036,4107,4,Informative and engaging session with minor scope for more hands-on work.
+7609,1058,4107,4,Very useful session with good explanations and examples.
+7610,1102,4107,3,"Useful session with relevant content, although more practical work would help."
+7611,1020,4108,5,Well organized session with strong hands-on learning.
+7612,1031,4108,5,Great event; the demonstrations made the concepts easy to understand.
+7613,1053,4108,5,Excellent session with practical examples and clear explanations.
+7614,1064,4108,5,Very informative and engaging event with useful technical insights.
+7615,1075,4108,5,Well organized session with strong hands-on learning.
+7616,1097,4108,4,Informative and engaging session with minor scope for more hands-on work.
+7617,1108,4108,4,Very useful session with good explanations and examples.
+7618,1119,4108,4,Well conducted event with relevant technical content.
+7619,1059,4109,4,Good learning experience with practical takeaways.
+7620,1081,4109,3,The event was informative and could be improved with additional demonstrations.
+7621,1103,4109,5,Excellent session with practical examples and clear explanations.
+7622,1054,4110,5,Very informative and engaging event with useful technical insights.
+7623,1065,4110,5,Well organized session with strong hands-on learning.
+7624,1076,4110,5,Great event; the demonstrations made the concepts easy to understand.
+7625,1098,4110,5,Excellent session with practical examples and clear explanations.
+7626,1109,4110,4,Well conducted event with relevant technical content.
+7627,1120,4110,4,Good learning experience with practical takeaways.
+7628,1022,4110,4,Informative and engaging session with minor scope for more hands-on work.
+7629,1033,4110,4,Very useful session with good explanations and examples.
+7630,1071,4111,3,"Good overall experience, with some topics needing more detailed explanation."
+7631,1093,4111,5,Well organized session with strong hands-on learning.
+7632,1104,4111,5,Great event; the demonstrations made the concepts easy to understand.
+7633,1115,4111,5,Excellent session with practical examples and clear explanations.
+7634,1017,4111,5,Very informative and engaging event with useful technical insights.
+7635,1028,4111,5,Well organized session with strong hands-on learning.
+7636,1039,4111,4,Informative and engaging session with minor scope for more hands-on work.
+7637,1088,4112,4,Very useful session with good explanations and examples.
+7638,1110,4112,4,Well conducted event with relevant technical content.
+7639,1012,4112,4,Good learning experience with practical takeaways.
+7640,1056,4112,3,"Useful session with relevant content, although more practical work would help."
+7641,1105,4113,5,Excellent session with practical examples and clear explanations.
+7642,1116,4113,5,Very informative and engaging event with useful technical insights.
+7643,1018,4113,5,Well organized session with strong hands-on learning.
+7644,1029,4113,5,Great event; the demonstrations made the concepts easy to understand.
+7645,1040,4113,5,Excellent session with practical examples and clear explanations.
+7646,1062,4113,4,Well conducted event with relevant technical content.
+7647,1084,4113,4,Good learning experience with practical takeaways.
+7648,1013,4114,4,Informative and engaging session with minor scope for more hands-on work.
+7649,1057,4114,4,Very useful session with good explanations and examples.
+7650,1101,4114,3,The event was informative and could be improved with additional demonstrations.
+7651,1019,4115,5,Well organized session with strong hands-on learning.
+7652,1041,4115,5,Great event; the demonstrations made the concepts easy to understand.
+7653,1052,4115,5,Excellent session with practical examples and clear explanations.
+7654,1063,4115,5,Very informative and engaging event with useful technical insights.
+7655,1096,4115,5,Well organized session with strong hands-on learning.
+7656,1107,4115,4,Informative and engaging session with minor scope for more hands-on work.
+7657,1118,4115,4,Very useful session with good explanations and examples.
+7658,1047,4116,4,Well conducted event with relevant technical content.
+7659,1058,4116,4,Good learning experience with practical takeaways.
+7660,1069,4116,3,"Good overall experience, with some topics needing more detailed explanation."
+7661,1102,4116,5,Excellent session with practical examples and clear explanations.
+7662,1113,4116,5,Very informative and engaging event with useful technical insights.
+7663,1004,4116,5,Well organized session with strong hands-on learning.
+7664,1064,4117,5,Great event; the demonstrations made the concepts easy to understand.
+7665,1086,4117,5,Excellent session with practical examples and clear explanations.
+7666,1108,4117,4,Well conducted event with relevant technical content.
+7667,1032,4117,4,Good learning experience with practical takeaways.
+7668,1070,4118,4,Informative and engaging session with minor scope for more hands-on work.
+7669,1081,4118,4,Very useful session with good explanations and examples.
+7670,1114,4118,3,"Useful session with relevant content, although more practical work would help."
+7671,1005,4118,5,Well organized session with strong hands-on learning.
+7672,1016,4118,5,Great event; the demonstrations made the concepts easy to understand.
+7673,1038,4118,5,Excellent session with practical examples and clear explanations.
+7674,1049,4118,5,Very informative and engaging event with useful technical insights.
+7675,1087,4119,5,Well organized session with strong hands-on learning.
+7676,1033,4119,4,Informative and engaging session with minor scope for more hands-on work.
+7677,1055,4119,4,Very useful session with good explanations and examples.
+7678,1104,4120,4,Well conducted event with relevant technical content.
+7679,1017,4120,4,Good learning experience with practical takeaways.
+7680,1028,4120,3,The event was informative and could be improved with additional demonstrations.
+7681,1039,4120,5,Excellent session with practical examples and clear explanations.
+7682,1061,4120,5,Very informative and engaging event with useful technical insights.
+7683,1072,4120,5,Well organized session with strong hands-on learning.
+7684,1083,4120,5,Great event; the demonstrations made the concepts easy to understand.
